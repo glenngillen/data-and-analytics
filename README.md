@@ -15,7 +15,7 @@ A list of common areas people want to focus on when improving their current data
 
 # Wanting to build your first data lake?
 
-## Getting Data into S3A
+## Getting Data into S3
 
 Getting data into S3 in a structured format is, in my experience, the bulk of the effort in getting an MVP data lake implemented. The options are:
 
