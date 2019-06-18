@@ -11,7 +11,7 @@ A list of common areas people want to focus on when improving their current data
 
 * Here's a common approach: https://aws.amazon.com/solutions/centralized-logging/
 * Once the logs are in CloudWatch you can start saving them to S3 (your first data lake! ;) https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/Sending-Logs-Directly-To-S3.html
-* Here's how to query them once they're there: https://aws.amazon.com/blogs/big-data/analyzing-data-in-s3-using-amazon-athena/G
+* Here's how to query them once they're there: https://aws.amazon.com/blogs/big-data/analyzing-data-in-s3-using-amazon-athena
 
 # ⛵ Wanting to build your first data lake?
 
