@@ -7,7 +7,7 @@ A list of common areas people want to focus on when improving their current data
 * Amazon Pinpoint is the easiest way to get something valuable deployed https://aws.amazon.com/pinpoint/features/analytics/usage-analytics/
 * It does a lot of heavy lifting out of the box (e.g., https://aws.amazon.com/blogs/messaging-and-targeting/amazon-pinpoints-analytics-suite-now-includes-event-metric-visualizations/). If you ever want to augment that with some custom solutions (internal reporting, custom ML, etc.) you can stream events into Kinesis and from there follow whatever your preferred data processing pipeline options are https://docs.aws.amazon.com/pinpoint/latest/developerguide/analytics-streaming.html
 
-# Wanting to centralize your logs 
+# Wanting to centralize your logs?
 
 * Here's a common approach: https://aws.amazon.com/solutions/centralized-logging/
 * Once the logs are in CloudWatch you can start saving them to S3 (your first data lake! ;) https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/Sending-Logs-Directly-To-S3.html
